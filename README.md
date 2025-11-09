@@ -1,2 +1,3 @@
-# vanna-analytics-ai
-Full-stack AI-powered Analytics Dashboard with Next.js, Express, PostgreSQL, and Vanna AI (Chat with Data).
+## Live Demo
+
+[https://vanna-analytics-ai.vercel.app](https://vanna-analytics-ai.vercel.app)
